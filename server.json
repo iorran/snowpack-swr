@@ -1,0 +1,34 @@
+{
+  "nominations": [
+    {
+      "status": "Nominated",
+      "agent": "0.35650266069571845",
+      "last3Cargoes": "last3Cargoes 1",
+      "productId": "productId 1",
+      "ownVatNo": "ownVatNo 1",
+      "vettingReference": "vettingReference 1",
+      "warehouseAddress": "warehouseAddress 1",
+      "warehouseNo": "warehouseNo 1",
+      "warehouseTaxNo": "warehouseTaxNo 1",
+      "productReceiverVat": "productReceiverVat 1",
+      "documentType": "documentType 1",
+      "clientClauseDetails": "clientClauseDetails 1",
+      "id": "1"
+    },
+    {
+      "status": "Nominated",
+      "agent": "0.3898280797137772",
+      "last3Cargoes": "last3Cargoes 2",
+      "productId": "productId 2",
+      "ownVatNo": "ownVatNo 2",
+      "vettingReference": "vettingReference 2",
+      "warehouseAddress": "warehouseAddress 2",
+      "warehouseNo": "warehouseNo 2",
+      "warehouseTaxNo": "warehouseTaxNo 2",
+      "productReceiverVat": "productReceiverVat 2",
+      "documentType": "documentType 2",
+      "clientClauseDetails": "clientClauseDetails 2",
+      "id": "2"
+    }
+  ]
+}
